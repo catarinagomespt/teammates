@@ -9,7 +9,7 @@ TEAMMATES is a free online tool for managing peer evaluations and other feedback
 
 ## How alive is the project?
 
-According to the generated report from the GitHub repository page, considering the period from January 28 of 2020 to February 28 of 2020, TeamMates has 17 merged pull requests and 11 proposed pull requests out of 28 Active Pull Requests. Regarding the number of contributors, 11 developers have worked on those pull requests lately (one-month period). 
+According to the generated report from the GitHub repository page, considering the period from January 28 of 2020 to February 28 of 2020, TeamMates has 17 merged pull requests and 11 proposed pull requests out of 28 Active Pull Requests. Regarding the number of contributors, 11 developers have worked on those pull requests lately (one-month period, and there are more than 400 direct contributors on the repository. 
 
 ![](https://i.imgur.com/iXddEd2.png)
 
