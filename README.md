@@ -1,48 +1,34 @@
-# TEAMMATES - Description
-![](https://i.imgur.com/yOslbtS.png)
+TEAMMATES Developer Web Site
 
+Travis Build Status AppVeyor Build Status Codecov Coverage Status License
 
-
-
-## What is TeamMates?
 TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students. It is provided as a cloud-based service for educators/students and is currently used by hundreds of universities across the world.
 
-## How alive is the project?
+This is the developer web site for TEAMMATES. Click here to go to the TEAMMATES product website.
 
-According to the generated report from the GitHub repository page, considering the period from January 28 of 2020 to February 28 of 2020, TeamMates has 17 merged pull requests and 11 proposed pull requests out of 28 Active Pull Requests. Regarding the number of contributors, 11 developers have worked on those pull requests lately (one-month period, and there are more than 400 direct contributors on the repository. 
+Documentation for Developers 📖 | Version History | Project Stats
+Interested to join TEAMMATES developer team?
 
-![](https://i.imgur.com/iXddEd2.png)
+We welcome contributions from developers, especially students. Here are some resources:
 
+    Contributor Orientation Guide: This document describes what you need to know/do to become a contributor.
+    Project ideas page: These are for those who would like to do a relatively bigger projects with TEAMMATES (e.g. summer internships).
 
-Source: https://github.com/TEAMMATES/teammates/pulse/monthly
+Acknowledgements
 
-## How important is it?
-TEAMMATES is used by over 200,000 users from over 1,600 universities from many countries.
+TEAMMATES team wishes to thank the following invaluable contributions:
 
-## What is it good for?
-Designed by a team of teachers and students, TEAMMATES provides a powerful peer feedback and peer evaluations mechanism with a very high degree of flexibility.
+    School of Computing, National University of Singapore (NUS), for providing us with the infrastructure support to run the project.
+    Centre for Development of Teaching and Learning (CDTL) of NUS, for supporting us with several Teaching Enhancement Grants over the years.
+    Learning Innovation Fund-Technology (LIF-T) initiative of NUS, for funding us for the 2015-2018 period.
+    Google Summer of Code Program, for including TEAMMATES as a mentor organization in GSoC2014, GSoC2015, GSoC2016, GSoC2017 and GSoC2018 editions.
+    Facebook Open Academy Program, for including TEAMMATES as a mentor organization in FBOA 2016.
+    Jet Brains, for the Intellij IDEA licences
+    YourKit LLC, for providing us with free licenses for the YourKit Java Profiler (an industry leading profiler tool for Java applications).
+    SauceLabs, for providing us with a free Open Sauce account for cross-browser testing.
 
-## What are the technologies involved (programming languages, libraries, desktop vs web based, etc.)?
-TEAMMATES uses many tools and technologies, which can be contributed by developer roles.
+Contacting us
 
-**Roles:**
-**Web page developer:** Works on static web pages, such as those used in the TEAMMATES product web site.
-**Front-end developer:** Works on the front-end of the app, i.e. the dynamically-generated user interface.
-**Test developer:** Works on automating system tests.
-**Back-end developer:** Works on the back-end logic of the app, including data storage.
-**DevOps developer:** Works on automations (CI, static analysis, scripting) and operations (logging, monitoring, troubleshooting).
+The best way to contact us is to post a message in our issue tracker. Our issue tracker doubles as a discussion forum. You can use it for things like asking questions about the project or requesting technical help.
 
-
-![](https://raw.githubusercontent.com/TEAMMATES/teammates/master/docs/images/RolesAndTechnologies.png)
-
-
-## Is the project in a development phase or maintenance/evolution phase?
-Maintenance: “We release frequently, in weekly time-boxed iterations. Every week, our product becomes better than the previous week. This means "go back and rewrite from scratch" is only a last resort.”
-
-## Are there many issues to fix?
-On February 28 of 2020, there are 240 opened issues and 5732 closed issues according to the TeamMates GitHub page.
-
-![](https://i.imgur.com/eHmFfdF.png)
-Source: https://github.com/TEAMMATES/teammates/issues
-
-
+Alternatively (less preferred), you can email us at teammates@comp.nus.edu.sg.
